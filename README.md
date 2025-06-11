@@ -23,6 +23,5 @@ Sou movida por propósito. Acredito que a tecnologia pode (e deve) melhorar a vi
 
 ## 📫 Contato
 
-- ✉️ thaliaellen.dev@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/) _(adicione aqui o seu perfil)_
+- ✉️ thaliaellenaraujo@gmail.com
 - 💼 Portfólio em construção
