@@ -1,6 +1,6 @@
 # 👩‍💻 Thalia Ellen
 
-Desenvolvedora Full Stack | Canindé/CE | 9+ anos de experiência
+Desenvolvedora Full Stack | Canindé/CE
 
 Sou apaixonada por resolver problemas com código. Atuo como desenvolvedora full stack, com foco em soluções web escaláveis e bem estruturadas, especialmente para a área pública e saúde digital. Tenho experiência sólida no desenvolvimento de aplicações usando **React**, **Next.js**, **Node.js** e **Express**, além de já ter montado servidores do zero.
 
